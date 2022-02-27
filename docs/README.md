@@ -28,7 +28,7 @@ Tabela de conteúdos
 
 # 💻 Sobre o projeto
 
-🔑 Stardew Calculator - A tela de login é uma parte do projeto E-herbert para os alunos do Herbert de Souza terem acesso por meio de um banco de dados ou se cadastrarem na plataforma.
+🔑 Tela de login - É uma parte do projeto E-herbert para os alunos do Herbert de Souza terem acesso por meio de um banco de dados ou se cadastrarem na plataforma.
 
 🕹️ Funcionalidades:
 - Ter controle de acesso na ferramenta de estudos.
